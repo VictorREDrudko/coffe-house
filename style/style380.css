@@ -1,0 +1,43 @@
+@media (max-width: 381px) {
+	.container__header {
+		padding: 0px 15px; 
+	}
+
+	.main {
+		margin: 0 15px;
+	}
+
+	.hero__offer {
+		top: 60px;
+		width: 320px;
+	}
+
+
+
+
+
+
+
+	
+
+	.contact {
+		margin: 39px 0 0 0;
+	}
+
+
+	.mobile__app {
+		height: 768px;
+	}
+
+	.item_card1 {
+		margin: 0 0 40px 0;
+	}
+
+	.item_card3 {
+		margin: 40px 0 0 0;
+	}
+
+	.block_btn_cards {
+		margin: 0 0 100px 0;
+	}
+}
